@@ -4,8 +4,8 @@
     "target_path": "device/oppo/common"
   },
   {
-    "repository": "android_kernel_oneplus_msm8974",
-    "target_path": "kernel/oneplus/msm8974"
+    "repository": "android_kernel_oneplus_radioactive",
+    "target_path": "kernel/oneplus/radioactive"
   },
   {
     "repository": "android_vendor_qcom_opensource_dataservices",
