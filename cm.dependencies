@@ -4,10 +4,6 @@
     "target_path": "device/oppo/common"
   },
   {
-    "repository": "android_kernel_oneplus_radioactive",
-    "target_path": "kernel/oneplus/radioactive"
-  },
-  {
     "repository": "android_vendor_qcom_opensource_dataservices",
     "target_path": "vendor/qcom/opensource/dataservices"
   }
