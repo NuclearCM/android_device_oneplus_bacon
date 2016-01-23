@@ -58,7 +58,7 @@ TARGET_KERNEL_SOURCE := kernel/oneplus/radioactive
 
 # Enable DIAG on debug builds
 ifneq ($(TARGET_BUILD_VARIANT),user)
-TARGET_KERNEL_ADDITIONAL_CONFIG:= cyanogenmod_debug_config
+TARGET_KERNEL_ADDITIONAL_CONFIG ?= cyanogenmod_debug_config
 endif
 
 # ANT+
